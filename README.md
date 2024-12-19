@@ -9,9 +9,9 @@ Our dataset was retrieved from Kaggle. The target of the dataset was types of di
 
 1 - Is there a correlation between cholesterol and blood glucose levels and the different types of diabetes?
 
-2 - 
+2 - What is the dispersal of Diabetes patients that partake in different lifestyle choices like drinking alcohol and smoking among these five types of Diabetes? Does whether or not someone has a family history of diabetes seem to make a difference in these lifestyle choices?
 
-3 - 
+3 - How the average BMI and BP varies across different types of diabetes?
 
 4 - Pregnancy - How do factors (history of complications and weight gain) relate to diabetes?
 
