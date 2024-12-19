@@ -5,7 +5,7 @@
 
 Our dataset was retrieved from Kaggle. The target of the dataset was types of diabetes or prediabetic conditions. The data provides an overview of these various types of diabetes and a range of attributes such as medical, genetic, and lifestyle factors. We selected to focus on 5 types of diabetes and how they related to the attributes that help us answer our questions.
 
-#Questions
+# Questions
 
 1 - Is there a correlation between cholesterol and blood glucose levels and the different types of diabetes?
 
