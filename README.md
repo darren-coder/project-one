@@ -15,6 +15,8 @@ Our dataset was retrieved from Kaggle. The target of the dataset was types of di
 
 4 - Pregnancy - How do factors (history of complications and weight gain) relate to diabetes?
 
+The data shows that no one diabetes type accounts for a significantly higher share of the total complications, but when looking at average weight gain during pregnancy Type 2 Diabetes has the highest average, with Type 3c and Gestational Diabetes also falling above the mean
+
 # Important Links: 
 
 Slide Deck: https://docs.google.com/presentation/d/1T57H80EBDZ52D9XOzDPe_A66sgt28CHXzmWQV6_uOhI/edit#slide=id.g325ed7c4ca7_0_8 
